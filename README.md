@@ -23,9 +23,7 @@ The air quality data is available from https://openaq.org/. The GEOS modelled ai
 
 Future scenarios are based on Climate Action Tracker projections https://climateactiontracker.org/publications/addressing-the-climate-and-post-covid-19-economic-crises/
 
-Species considered
-
-
+Species considered :CO2,CH4,N2O,SO2,Black Carbon,Organic Carbon', Carbon Monoxide,NMVOC,NH3,NOx
 
 
 
