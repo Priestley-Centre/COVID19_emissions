@@ -8,6 +8,8 @@ Spreadsheets of monthly emissions, concentations and forcings for four scenarios
 
 ## Pathway what-if assumptions
 
+Based on Climate Action Tracker projections https://climateactiontracker.org/publications/addressing-the-climate-and-post-covid-19-economic-crises/
+
 ## Baseline
 Follows emissions until 2030 consistent with a successful implementation of the  current Nationally 
 Determined Contributions (NDC) submitted by individual countries under the Paris Agreement, adapted from Rogelj et al (2017). Emissions continue after 2030 assuming no significant strengthening in climate action. 
