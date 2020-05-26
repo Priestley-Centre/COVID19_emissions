@@ -5,7 +5,7 @@ These data are
 National emissions: are daily national emissions for 10 species
 CO2,CH4,N2O,SO2,Black Carbon,Organic Carbon, Carbon Monoxide,NMVOCs,NH3 and NOx
 
-Scenarios of emission, concentration and forcing are also given in the scenarios directory
+Sceanrios of emission, concentration and forcing are also given in the pathway directory
 
 Gridded emisison version are too big for GiHub so are here:https://zenodo.org/record/3854866#.XszKwBNKjEY
 
