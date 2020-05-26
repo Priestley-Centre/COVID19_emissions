@@ -7,12 +7,17 @@ CO2,CH4,N2O,SO2,Black Carbon,Organic Carbon, Carbon Monoxide,NMVOCs,NH3 and NOx
 
 Sceanrios of emission, concentration and forcing are also given in the pathway directory
 
-Gridded emisison version are too big for GiHub so are here:https://zenodo.org/record/3854866#.XszKwBNKjEY
+Gridded emisison version are too big for GitHub so are here:https://zenodo.org/record/3854866#.XszKwBNKjEY
 
 Global pathways are emission scenarios and outputs from FaIRv1.5 https://github.com/OMS-NetZero/FAIR, with model tuning parameters
 
+There  is the baseline scenario in the pathway directory for the global pathways. Otherwise the baseline the EDGAR version 5.0, 2015 Annual data divided by 365  that daily fractional are computed from - the numbers are in the headers of the csv files in the national emissions directory
+
+The annual gridmaps from EDGAR for 2015 are also used as the basis for the gridmap fields, see the file for details
+
 Uses Google mobility data to estimate 2020 emission change due to COVID 19 restrictions and then examine its climate impact
 Uses the sector based analyses of Le Quere et al. (2020) nature.com/articles/s41558-020-0797-x  as a basis
+
 
 Based on a submitted paper
 ## Current and future global climate impacts resulting from COVID-19
