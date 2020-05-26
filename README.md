@@ -11,7 +11,7 @@ Gridded emisison version are too big for GitHub so are here:https://zenodo.org/r
 
 Global pathways are emission scenarios and outputs from FaIRv1.5 https://github.com/OMS-NetZero/FAIR, with model tuning parameters
 
-There  is the baseline scenario in the pathway directory for the global pathways. Otherwise the baseline the EDGAR version 5.0, 2015 Annual data divided by 365  that daily fractional are computed from - the numbers are in the headers of the csv files in the national emissions directory
+There  is the baseline scenario in the pathway directory for the global pathways. Otherwise the baseline the EDGAR version 5.0, 2015. We compute a fractional change per sector from mobility data and them then sum over the sectors average daily emisison to present in emssion change per day. The baseline would be the EDGAR 2015 annal values divided by 365, summed over all sectors.
 
 The annual gridmaps from EDGAR for 2015 are also used as the basis for the gridmap fields, see the file for details
 
