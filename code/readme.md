@@ -1,4 +1,4 @@
-This is the code for creating emissions from mobility data, with input files: 
+This is the code for creating emissions from mobility data and then estimating the climate response, with input files: 
 
 
 Various data sources are used to create these emission scenarios:
