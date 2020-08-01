@@ -1,7 +1,7 @@
 # COVID19_emissions
 Mobility  -based estimates of emission change from COVID19 for 2020 and projections forward
 
-Updated with latest mobility data to 5 July 2020
+Updated with latest mobility data to 29 July 2020
 
 These data are
 National emissions: are daily national emissions for 10 species
@@ -29,8 +29,8 @@ Funding was provided by the European Union’s Horizon 2020 Research and Innovat
 
 Various data sources are used to create these emission scenarios:
 
-Google LLC "Google COVID-19 Community Mobility Reports". https://www.google.com/covid19/mobility/  Accessed: 11 May 2020.
-Apple LLC “Apple Mobility Trends Reports” https://www.apple.com/covid19/mobility Accessed: 11 May 2020.
+Google LLC "Google COVID-19 Community Mobility Reports". https://www.google.com/covid19/mobility/  Accessed: 29 July 2020.
+Apple LLC “Apple Mobility Trends Reports” https://www.apple.com/covid19/mobility Accessed: 29 July 2020.
 
 EDGAR version 5.0 national and sector split and gridded emissions data is available from https://data.europa.eu/doi/10.2904/JRC_DATASET_EDGAR
 
