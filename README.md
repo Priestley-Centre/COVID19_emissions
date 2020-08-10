@@ -21,9 +21,8 @@ Uses Google mobility data to estimate 2020 emission change due to COVID 19 restr
 Uses the sector based analyses of Le Quere et al. (2020) nature.com/articles/s41558-020-0797-x  as a basis
 
 
-Based on a submitted paper
-## Current and future global climate impacts resulting from COVID-19
-Piers M. Forster, Harriet I. Forster, Mat J. Evans, Matthew J. Gidden, Chris D. Jones, Christoph  A. Keller, Robin Lamboll, Corinne Le Quéré, Joeri Rogelj, Deborah Rosen, Carl-Friedrich Schleussner, Thomas Richardson, Christopher J. Smith, Steven T. Turnock.
+Citation
+Forster, P.M., Forster, H.I., Evans, M.J. et al. Current and future global climate impacts resulting from COVID-19. Nat. Clim. Chang. (2020). https://doi.org/10.1038/s41558-020-0883-0
 
 Funding was provided by the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement nos. 820829 (CONSTRAIN)http://constrain-eu.org/  and UKRI NERC grant NE/N006038/1 (SMURPHS). CDJ was supported by the Joint UK BEIS/Defra Met Office Hadley Centre Climate Programme (GA01101) and CRESCENDO (EU Project 641816). CLQ was supported by the Royal Society (grant no. RP\R1\191063), and the European Commission H2020 4C grant (no. 821003). MJE is grateful for computational support from the University of York’s HPC service (Viking). 
 
