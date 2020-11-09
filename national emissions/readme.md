@@ -1,4 +1,4 @@
-V3 is the latest data. - currently 6 September
+V3 is the latest data. - currently until 3 November 2020
 Other dates are given
 V2 goes to mid May
 
