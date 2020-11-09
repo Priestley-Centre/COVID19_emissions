@@ -1,7 +1,7 @@
 # COVID19_emissions
 Mobility  -based estimates of emission change from COVID19 for 2020 and projections forward
 
-Updated with latest mobility data to 29 July 2020
+Updated with latest mobility data to 3 November 2020
 
 These data are
 National emissions: are daily national emissions for 10 species
